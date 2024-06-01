@@ -10,10 +10,3 @@
 Cybert4k5/Cybert4k5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[
-	{
-		"code": 403,
-		"error": "Your Snapshot proposals do not have enough votes to qualify for this stamp."
-	}
-]
